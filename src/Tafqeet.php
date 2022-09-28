@@ -22,6 +22,12 @@
 			'end' => 'لا غير',
 
 			'currencies' => [
+				'weight' => [
+					'main1' => '',
+					'main2' => '',
+					'single' => '',
+					'multi' => '',
+				],
 				'sar' => [
 					'main1' => 'ريال',
 					'main2' => 'ريالاً',
