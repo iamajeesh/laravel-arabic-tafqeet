@@ -23,10 +23,10 @@
 
 			'currencies' => [
 				'weight' => [
-					'main1' => '',
-					'main2' => '',
-					'single' => '',
-					'multi' => '',
+					'main1' => 'جرام',
+					'main2' => 'جرام',
+					'single' => 'ميكروجرام',
+					'multi' => 'ميكروجرام',
 				],
 				'sar' => [
 					'main1' => 'ريال',
